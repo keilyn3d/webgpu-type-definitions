@@ -3,6 +3,10 @@
   "displayName": "webgpu-type-definitions",
   "description": "Add WebGPU Types globally to javascript and typescript",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keilyn3d/webgpu-type-definitions.git"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
